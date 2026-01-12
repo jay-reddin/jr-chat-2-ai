@@ -1,2 +1,1 @@
-# jr-chat-2-ai
-Created with CodeSandbox
+# Chat-JR-App
